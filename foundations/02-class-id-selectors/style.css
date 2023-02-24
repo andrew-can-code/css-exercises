@@ -1,0 +1,37 @@
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* Classes */
+.num-1 {
+  background-color: rgb(243, 168, 168);
+  margin: 10px 5px 10px 5px;
+}
+
+.num-3 {
+  background-color: rgb(243, 168, 168);
+  margin: 10px 5px 10px 5px;
+  font-size: 1.5rem;
+}
+
+.num-5 {
+  background-color: rgb(243, 168, 168);
+  margin: 10px 5px 10px 5px;
+}
+
+/* IDs */
+
+#num-2 {
+  color: blue;
+  font-size: 2.5rem;
+  margin: 15px 5px 15px 5px;
+}
+
+#num-4 {
+  background-color: lightgreen;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  margin: 10px 5px 10px 5px;
+}
